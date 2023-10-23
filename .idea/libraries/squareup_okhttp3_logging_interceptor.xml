@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="squareup.okhttp3.logging.interceptor" type="repository">
+    <properties maven-id="com.squareup.okhttp3:logging-interceptor:3.14.9" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/logging-interceptor-3.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.17.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
